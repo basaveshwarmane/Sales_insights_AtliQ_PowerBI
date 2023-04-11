@@ -40,12 +40,12 @@ and success criteria  of our project.
 
 ## Final result 
 
-#### Initial Dashboard
+#### Dashboard
 
 ---
 ![Sales_insight_preview](https://user-images.githubusercontent.com/128837440/231114003-21fdda55-5283-44be-8a53-ea72e3603977.png)
 
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Inital_report.png" width="550" class="center">
+<img src="https://github.com/basaveshwarmane/Sales_insights_AtliQ_PowerBI/blob/main/Sales_insight_preview.png" width="550" class="center">
 
 #### Updated Dashboard
 
