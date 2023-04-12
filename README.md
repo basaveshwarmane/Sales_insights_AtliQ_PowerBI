@@ -3,7 +3,7 @@ This is a project I replicated from Codebasics PowerBi Youtube playlist. You can
 
 [Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
-[Live Report Link](https://www.novypro.com/project/atliq-sales-insights-)
+[Download Report Link](https://github.com/basaveshwarmane/Sales_insights_AtliQ_PowerBI/blob/main/insight_sales_by_codebasics.pbix)
 
 ## Problem statement
 
@@ -21,13 +21,6 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
 
 
-### AIMS Grid
-
----
-By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
-and success criteria  of our project.
-
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" class="center">
 
 ## Steps Followed in this project
 
